@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629646648767",
+    "project_id": "simakoproject",
+    "storage_bucket": "simakoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629646648767:android:45fe38c95a196c2080ad0a",
+        "android_client_info": {
+          "package_name": "simako.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkA74igiozIyGvBq3T-LphkxTaDW9r-co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
